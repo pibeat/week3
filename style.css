@@ -120,3 +120,15 @@ p {
 box-shadow: var(--box-shadow);
   width:5px;
 }
+
+@media (max-width: 576px) {
+#min{
+    opacity: 0;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+}
