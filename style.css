@@ -97,8 +97,8 @@ p {
 
 img {
   width: 400px;
-  border-radius: 5px;~
-  box-shadow: var(--box-shadow);
+  border-radius: 5px;
+box-shadow: var(--box-shadow);
 }
 .col-md-6 {
   flex: 0 0 auto;
